@@ -1,0 +1,29 @@
+{
+  "name": "project-ak-tpl-f",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Oleksandr Krokhmalnyi <oleksandr.kr@aquimarketing.com>",
+  "homepage": "https://github.com/magr0s/mono-tpl#readme",
+  "license": "ISC",
+  "main": "lib/project-ak-tpl-f.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magr0s/mono-tpl.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/magr0s/mono-tpl/issues"
+  },
+  "dependencies": {
+    "project-ak-tpl-e": "^5.0.0"
+  }
+}
