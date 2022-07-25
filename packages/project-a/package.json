@@ -1,5 +1,5 @@
 {
-  "name": "project-a",
+  "name": "project-ak-mono-tpl-a",
   "version": "2.0.0",
   "description": "> TODO: description",
   "author": "Oleksandr Krokhmalnyi <oleksandr.kr@aquimarketing.com>",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "project-b": "^0.0.0"
+    "project-ak-mono-tpl-b": "^0.0.0"
   },
-  "gitHead": "30ae231bed691285be7b8dfe2b84813f53bb3f37"
+  "gitHead": "e43f3462cbc7e8ae3e2c002e95f7011f1cb78470"
 }
