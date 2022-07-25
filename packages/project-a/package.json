@@ -1,0 +1,22 @@
+{
+  "name": "project-a",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "Oleksandr Krokhmalnyi <oleksandr.kr@aquimarketing.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/project-a.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "project-b": "^0.0.0"
+  }
+}
